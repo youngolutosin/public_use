@@ -7,7 +7,7 @@ The folders are well organised and the name of each folder corresponds to the na
 
 For example:
    
-      .......
+  
     All dataset(s) were included in each subfolder. However, CNN dataset was not included due to filesize
     but can be downloaded on kaggle (use kaggle cat and dog as search keywords).
     Regression:
